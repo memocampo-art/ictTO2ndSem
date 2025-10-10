@@ -1,4 +1,5 @@
 # ictTO2ndSem
+## fork copy of Marcus' ictTO2ndSem
 Group 3:
 Alvin Salivio
 Abhijit Sidhu-Jaid
